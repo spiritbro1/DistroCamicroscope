@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "express-promise": "^0.4.0",
     "jsonwebtoken": "^8.5.1",
-   "jwk-to-pem": "^2.0.4",
+   "jwk-to-pem": "^2.0.5",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "snyk": "^1.349.0"
