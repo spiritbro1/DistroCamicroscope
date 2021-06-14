@@ -16,7 +16,7 @@
     "mocha": "^6.2.3",
     "node-fetch": "^2.6.1",
     "whatwg-fetch": "^3.0.0",
-    "snyk": "^1.349.0"
+    "snyk": "^1.606.0"
   },
   "snyk": true
 }
